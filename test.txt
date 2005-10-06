@@ -1,4 +1,0 @@
-testdf
-$LastChangedRevision$
-$LastChangedDate: 2005-03-22 10:11:16 -0800 (Tue, 22 Mar 2005) $
-$Id: Bric.pm 6288 2005-03-22 18:11:16Z theory $
